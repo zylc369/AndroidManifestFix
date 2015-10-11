@@ -1,0 +1,2 @@
+# AndroidManifestFix
+AndroidManifest.xml文件修复工具。用于修复AXML文件中属性名称缺失的问题。
